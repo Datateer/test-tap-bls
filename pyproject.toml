@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "tap-bls-test"
+version = "0.1.0"
+description = ""
+authors = ["Adam Roderick <aroder@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+meltano = "^1.92.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

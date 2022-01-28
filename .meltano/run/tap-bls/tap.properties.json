@@ -1,0 +1,2908 @@
+{
+  "streams": [
+    {
+      "tap_stream_id": "JTS000000000000000TSR",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "JTS000000000000000TSR",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "LNS13008516",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "LNS13008516",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "LNS14032183",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "LNS14032183",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "LNS15026642",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "LNS15026642",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "LNS14000003",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "LNS14000003",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "JTS000000000000000QUR",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "JTS000000000000000QUR",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "LNS13008756",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "LNS13008756",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "LNS13008636",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "LNS13008636",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "LNS15026645",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "LNS15026645",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "JTS000000000000000HIL",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "JTS000000000000000HIL",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "JTS000000000000000LDL",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "JTS000000000000000LDL",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "LNS13000000",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "LNS13000000",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "LNS14000009",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "LNS14000009",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "JTS000000000000000JOR",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "JTS000000000000000JOR",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "LNS15000000",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "LNS15000000",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "LNS14000000",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "LNS14000000",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "LNS14000006",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "LNS14000006",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "JTS000000000000000TSL",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "JTS000000000000000TSL",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "JTS000000000000000JOL",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "JTS000000000000000JOL",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "JTS000000000000000QUL",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "JTS000000000000000QUL",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "JTS000000000000000HIR",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "JTS000000000000000HIR",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    },
+    {
+      "tap_stream_id": "JTS000000000000000LDR",
+      "replication_key": [
+        "year"
+      ],
+      "key_properties": [
+        "year"
+      ],
+      "schema": {
+        "properties": {
+          "SeriesID": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "period": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "value": {
+            "type": [
+              "null",
+              "number"
+            ]
+          },
+          "footnotes": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "full_period": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "time_extracted": {
+            "format": "date-time",
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        },
+        "type": [
+          "null",
+          "object"
+        ],
+        "additionalProperties": [
+          "schema",
+          "record",
+          "type",
+          "stream"
+        ]
+      },
+      "stream": "JTS000000000000000LDR",
+      "metadata": [
+        {
+          "metadata": {
+            "inclusion": "available",
+            "selected": true
+          },
+          "breadcrumb": []
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "SeriesID"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "value"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "footnotes"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "full_period"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        },
+        {
+          "breadcrumb": [
+            "properties",
+            "time_extracted"
+          ],
+          "metadata": {
+            "inclusion": "automatic",
+            "selected": true
+          }
+        }
+      ],
+      "selected": true
+    }
+  ]
+}

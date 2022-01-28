@@ -1,0 +1,114 @@
+{
+    "series": [
+        {
+            "seriesid": "JTS000000000000000HIL",
+            "description": " Hires level, Total nonfarm",
+            "create_this_schema": "true"
+        },
+        {
+            "seriesid": "JTS000000000000000HIR",
+            "description": " Hires rate, Total nonfarm",
+            "create_this_schema": "true"
+        },
+        {
+            "seriesid": "JTS000000000000000JOL",
+            "description": "Job openings level, Total nonfarm",
+            "create_this_schema": "true"
+        },
+        {
+            "seriesid": "JTS000000000000000JOR",
+            "description": " Job openings rate, Total nonfarm",
+            "create_this_schema": "true"
+        },
+        {
+            "seriesid": "JTS000000000000000LDL",
+            "description": " Layoffs and discharges level, Total nonfarm",
+            "create_this_schema": "true"
+        },
+        {
+            "seriesid": "JTS000000000000000LDR",
+            "description": " Layoffs and discharges rate, Total nonfarm",
+            "create_this_schema": "true"
+        },
+        {
+            "seriesid": "JTS000000000000000QUL",
+            "description": " Quits level, Total nonfarm",
+            "create_this_schema": "true"
+        },
+        {
+            "seriesid": "JTS000000000000000QUR",
+            "description": " Quits rate, Total nonfarm",
+            "create_this_schema": "true"
+        },
+        {
+            "seriesid": "JTS000000000000000TSL",
+            "description": " Total separations level, Total nonfarm",
+            "create_this_schema": "true"
+        },
+        {
+            "seriesid": "JTS000000000000000TSR",
+            "description": " Total separations rate, Total nonfarm",
+            "create_this_schema": "true"
+        },
+        {
+            "seriesid": "LNS13000000",
+            "description": "Civilian Unemployment (Seasonally Adjusted)",
+            "create_this_schema": "True"
+        },
+        {
+            "seriesid": "LNS13008516",
+            "description": "Number Unemployed For 15 Weeks & Over",
+            "create_this_schema": "True"
+        },
+        {
+            "seriesid": "LNS13008636",
+            "description": "Number Unemployed For 27 Weeks & Over",
+            "create_this_schema": "True"
+        },
+        {
+            "seriesid": "LNS13008756",
+            "description": "Number Unemployed For 5-14 Weeks",
+            "create_this_schema": "True"
+        },
+        {
+            "seriesid": "LNS14000000",
+            "description": "Unemployment Rate (Seasonally Adjusted)",
+            "create_this_schema": "True"
+        },
+        {
+            "seriesid": "LNS14000003",
+            "description": "Unemployment RateWhite",
+            "create_this_schema": "True"
+        },
+        {
+            "seriesid": "LNS14000006",
+            "description": "Unemployment RateBlack or African American",
+            "create_this_schema": "True"
+        },
+        {
+            "seriesid": "LNS14000009",
+            "description": "Unemployment RateHispanic or Latino",
+            "create_this_schema": "True"
+        },
+        {
+            "seriesid": "LNS14032183",
+            "description": "Unemployment RateAsian",
+            "create_this_schema": "True"
+        },
+        {
+            "seriesid": "LNS15000000",
+            "description": "Not in Labor Force",
+            "create_this_schema": "True"
+        },
+        {
+            "seriesid": "LNS15026642",
+            "description": "Marginally Attached to Labor Force",
+            "create_this_schema": "True"
+        },
+        {
+            "seriesid": "LNS15026645",
+            "description": "Discouraged Workers",
+            "create_this_schema": "True"
+        }
+    ]
+}

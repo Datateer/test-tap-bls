@@ -1,0 +1,25 @@
+version: 1
+project_id: 65846341-e4f1-4ded-a0c0-359416eba666
+plugins:
+  extractors:
+    - name: tap-bls
+      namespace: tap_bls
+      pip_url: git+https://github.com/frasermarlow/tap-bls.git
+      executable: tap-bls
+      capabilities:
+        - catalog
+        - discover
+      settings:
+        - name: user_id
+          env: TAP_BLS_USER_ID
+        - name: api_key
+          env: TAP_BLS_API_KEY
+      config:
+        startyear: "2015"
+        endyear: "2021"
+        calculations: "true"
+        annualaverage: "false"
+        aspects: "false"
+        disable_collection: "true"
+        update_state: "false"
+        series_list_file_location: ./tap-bls-series.json
