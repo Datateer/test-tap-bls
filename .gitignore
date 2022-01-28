@@ -1,2 +1,6 @@
 config.json
 .meltano
+.env
+/output/**
+!/output/**/
+!/output/**/.gitkeep

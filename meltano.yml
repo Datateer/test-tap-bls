@@ -10,9 +10,7 @@ plugins:
         - catalog
         - discover
       settings:
-        - name: user_id
-          env: TAP_BLS_USER_ID
-        - name: api_key
+        - name: api-key
           env: TAP_BLS_API_KEY
       config:
         startyear: "2015"
@@ -23,3 +21,7 @@ plugins:
         disable_collection: "true"
         update_state: "false"
         series_list_file_location: ./tap-bls-series.json
+  loaders:
+    - name: target-jsonl
+      variant: andyh1203
+      pip_url: target-jsonl
